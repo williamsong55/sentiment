@@ -10,7 +10,7 @@ class Decider:
         self.classifier=None
 
     def sent(self,doc):
-
+        return {'word':doc}
 
     def build_model(self):
         print("Built\n")

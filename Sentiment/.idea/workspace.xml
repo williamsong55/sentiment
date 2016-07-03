@@ -1,7 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0326c0f-baa9-4a53-b727-0c7f4cfafb90" name="Default" comment="" />
+    <list default="true" id="b0326c0f-baa9-4a53-b727-0c7f4cfafb90" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Sentiment.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InputReader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/negative/neg9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neutral/neu9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/positive/pos9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_data/negative.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_data/neutral.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_data/positive.csv" />
+    </list>
     <ignored path="Sentiment.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -36,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/Decider.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -52,6 +168,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,7 +193,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -354,7 +473,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="520" y="40" width="1400" height="1000" extended-state="0" />
+    <frame x="520" y="40" width="1400" height="1000" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -432,7 +551,7 @@
     <entry file="file://$PROJECT_DIR$/Decider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
