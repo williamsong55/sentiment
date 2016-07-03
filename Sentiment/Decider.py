@@ -8,9 +8,15 @@ class Decider:
     def __init__(self,name):
         self.name = name
         self.classifier=None
+        self.all = list(word_tokenize(open('all.txt').read()))
+        self.build_model()
 
     def sent(self,doc):
-        return {'word':doc}
+        words = set(word_tokenize(doc))
+        feats = {}
+        for word in self.all:
+            feats['contains({})'.format(word)] = (word in words)
+        return feats
 
     def build_model(self):
         print("Built\n")
