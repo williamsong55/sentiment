@@ -10,21 +10,26 @@ class Decider:
         self.classifier=None
         self.all = list(word_tokenize(open('all.txt').read()))
         self.build_model()
+        self.set = None
 
     def sent(self,doc):
-        words = set(word_tokenize(doc))
+        low = [w.lower() for w in word_tokenize(doc)]
+        words = set(low)
         feats = {}
         for word in self.all:
             feats['contains({})'.format(word)] = (word in words)
         return feats
 
     def build_model(self):
-        print("Built\n")
-        labeled_names = ([(name, 'positive') for name in word_tokenize(open('positive.txt').read())] + [(name, 'negative') for name in word_tokenize(open('negative.txt').read())]+ [(name, 'neutral') for name in word_tokenize(open('neutral.txt').read())])
-        random.shuffle(labeled_names)
-        featuresets = [(self.sent(n), gender) for (n, gender) in labeled_names]
-        train_set, test_set = featuresets[50:], featuresets[:50]
+        print("Built Model")
+        labeled_sents = ([(txt, 'positive') for txt in word_tokenize(open('positive.txt').read())] + [(txt, 'negative') for txt in word_tokenize(open('negative.txt').read())]+ [(txt, 'neutral') for txt in word_tokenize(open('neutral.txt').read())])
+        random.shuffle(labeled_sents)
+        featuresets = [(self.sent(txt), emotion) for (txt, emotion) in labeled_sents]
+        self.set = featuresets
+        #train_set, test_set = featuresets[50:], featuresets[:50]
         self.classifier = nltk.NaiveBayesClassifier.train(featuresets)
+        #print(nltk.classify.accuracy(self.classifier, self.set))
+
 
     def features(self):
         self.classifier.show_most_informative_features()
